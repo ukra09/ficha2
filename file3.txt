@@ -1,2 +1,11 @@
 Este é o exemplo de um ficheiro de texto file3
 
+
+
+
+
+
+
+
+
+acrestentei umas linhas no file3.txt
